@@ -1,1 +1,4 @@
 Flask
+flask_restplus
+flask_injector
+python-dotenv
